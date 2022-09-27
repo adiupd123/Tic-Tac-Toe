@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Tic Tac Toe</string>
+    <string name="gridDesc">TODO</string>
+    <string name="I1">TODO</string>
+    <string name="I2">TODO</string>
+    <string name="I3">TODO</string>
+    <string name="I4">TODO</string>
+    <string name="I5">TODO</string>
+    <string name="I6">TODO</string>
+    <string name="I7">TODO</string>
+    <string name="I8">TODO</string>
+    <string name="I9">TODO</string>
+
+
+    <string name="status">Turn for X - Tap to Play</string>
+</resources>
